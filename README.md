@@ -54,5 +54,3 @@ Link: [Github repo for source files used in all 3 courses in the Accelerated CS 
   - overlay another image
 
 ---
-
-**[Certificate of Completion - 9/27/2019](https://www.coursera.org/account/accomplishments/certificate/PCE28XKHM7VH)**
